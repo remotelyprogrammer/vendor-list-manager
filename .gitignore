@@ -1,1 +1,4 @@
 venv/
+main_list.csv
+new_list.csv
+output/vendor_incoming_results.csv
